@@ -22,9 +22,11 @@ a) Sales Overview/Summary:
 <img width="601" alt="page1" src="https://github.com/user-attachments/assets/8e540564-abf5-45d5-8105-a690e6252375">
 
 
+
 b) Sales by Customer (KPI 1):
 
 <img width="602" alt="page2" src="https://github.com/user-attachments/assets/c458b537-fa9c-408f-8c0e-7cfc07aa1cf7">
+
 
 
 c) Sales by Product  (KPI 2):
